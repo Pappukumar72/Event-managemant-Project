@@ -1,0 +1,3 @@
+[submodule "EventManagement"]
+	path = EventManagement
+	url = https://github.com/Pappukumar72/Event-Management-Project.git
